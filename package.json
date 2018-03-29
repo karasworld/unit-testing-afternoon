@@ -1,0 +1,14 @@
+{
+  "name": "unit-testing-afternoon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts":{
+    "test":"jest"
+  },
+  "repository": "https://github.com/karasworld/unit-testing-afternoon.git",
+  "author": "Kara Rainey <karain82@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
